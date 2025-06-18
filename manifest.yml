@@ -47,7 +47,6 @@ files:
         dynamic_name: "{{name}}"
         files:
           - file: entrypoint.swift
-          - file: configure.swift
             dynamic: true
           - file: routes.swift
             dynamic: true
